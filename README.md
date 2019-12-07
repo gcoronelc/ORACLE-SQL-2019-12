@@ -5,7 +5,7 @@
 
 - Lugar: SistemasUNI
 - Horario: SABADO DE 08 A 14 HORAS
-- Inicio: 06-DIC-2019
+- Inicio: 07-DIC-2019
 - Dirección: https://goo.gl/maps/98vwAt9NZMU2
 - Página: http://gcoronelc.blogspot.com/p/oracle.html
 - Código fuente: https://goo.gl/GRaOQg
