@@ -1,4 +1,4 @@
-clase 01
+Clase 01
 ========================================
 1.- Presentación
 2.- Introducción a ORACLE
@@ -7,6 +7,12 @@ clase 01
 5.- Esquemas de trabajo: SCOTT, HR, RECURSOS, EDUCA, VENTAS, EUREKA
 
  
+Clase 02
+========================================
+1.- Capitulo 3
+2.- Capitulo 4
+5.- Capitulo 5
+
 
 
 

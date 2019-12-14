@@ -162,6 +162,34 @@ WHERE SUELDO BETWEEN 3000 AND 7000
 ORDER BY NOMBRE;
 
 
+select * 
+from scott.emp
+order by hiredate;
+
+select * 
+from scott.emp
+where hiredate between to_date('22/02/81','DD/MM/RR') 
+                and  to_date('03/12/81 08:30','DD/MM/RR HH24:MI')
+order by hiredate;
+
+UPDATE "SCOTT"."EMP" 
+SET HIREDATE = TO_DATE('1981-12-03 08:30:00', 'YYYY-MM-DD HH24:MI:SS') 
+WHERE EMPNO = 7900;
+
+
+SELECT to_date('22/02/81','DD/MM/RR') FECHA FROM DUAL;
+
+
+-- Asi trabajo YO.
+
+select * 
+from scott.emp
+where hiredate >= to_date('22/02/81','DD/MM/RR') 
+and   hiredate <  (to_date('03/12/81','DD/MM/RR') + 1)
+order by hiredate;
+
+
+
 
 
 
