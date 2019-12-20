@@ -49,6 +49,12 @@
 
 # CURSOS VIRTUALES
 
+## ORACLE PL/SQL
+
+- Cupon de $9.99: NAVIDAD2
+- Enlace: https://www.udemy.com/course/lenguaje-plsql/?couponCode=NAVIDAD2
+
+[![ORACLE PL/SQL](https://raw.githubusercontent.com/gcoronelc/UDEMY/master/cursos/plsql.png)](https://youtu.be/qf5IF2dJtQc "ORACLE PL/SQL")
 
 ## JAVA ORIENTADO A OBJETOS
 
