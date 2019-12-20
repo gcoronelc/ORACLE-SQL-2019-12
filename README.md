@@ -49,24 +49,25 @@
 
 # CURSOS VIRTUALES
 
+## CUPONES UDEMY
+
+- Enlace: https://github.com/gcoronelc/UDEMY
+
 ## ORACLE PL/SQL
 
-- Cupon de $9.99: NAVIDAD2
-- Enlace: https://www.udemy.com/course/lenguaje-plsql/?couponCode=NAVIDAD2
+- Enlace: https://www.udemy.com/course/lenguaje-plsql/?referralCode=3B8A67CA0AADFCFB930C
 
 [![ORACLE PL/SQL](https://raw.githubusercontent.com/gcoronelc/UDEMY/master/cursos/plsql.png)](https://youtu.be/qf5IF2dJtQc "ORACLE PL/SQL")
 
 # JAVA ORIENTADO A OBJETOS
 
-- Cupon de $9.99: NAVIDAD2
-- Enlace: https://www.udemy.com/course/java-orientado-a-objetos/?couponCode=NAVIDAD2
+- Enlace: https://www.udemy.com/course/java-orientado-a-objetos/?referralCode=ED949D58C79D27158E8D
 
 [![JAVA ORIENTADO A OBJETOS](https://raw.githubusercontent.com/gcoronelc/UDEMY/master/cursos/joo.png)](http://www.youtube.com/watch?v=EKlwF12-l9Y "JAVA ORIENTADO A OBJETOS")
 
 # PROGRAMACIÓN DE BASE DE DATOS ORACLE CON JAVA JDBC
 
-- Cupon de $9.99: NAVIDAD2
-- Enlace: https://www.udemy.com/course/java-jdbc-oracle/?couponCode=NAVIDAD2
+- Enlace: https://www.udemy.com/course/java-jdbc-oracle/?referralCode=C518C8D3028403F7F6DF
 
 [![JAVA JDBC CON BASE DE DATOS ORACLE](https://raw.githubusercontent.com/gcoronelc/UDEMY/master/cursos/jdbc.png)](http://www.youtube.com/watch?v=MR53Xgeg28Y "JAVA JDBC CON BASE DE DATOS ORACLE")
 
